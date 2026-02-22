@@ -1,0 +1,1 @@
+Último ejercicio del boletín de la asignatura de Desarrollo de Interfaces, el cual consiste en un componente que genera figuras en posiciones aleatorias en color y grosor de línea que el usuario seleccione, permite rellenar figuras y deshacer.
