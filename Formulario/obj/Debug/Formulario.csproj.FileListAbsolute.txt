@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Ej6DI\Formulario\bin\Debug\Formulario.exe.config
+C:\Users\User\source\repos\Ej6DI\Formulario\bin\Debug\Formulario.exe
+C:\Users\User\source\repos\Ej6DI\Formulario\bin\Debug\Formulario.pdb
+C:\Users\User\source\repos\Ej6DI\Formulario\obj\Debug\Formulario.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ej6DI\Formulario\obj\Debug\Formulario.Properties.Resources.resources
+C:\Users\User\source\repos\Ej6DI\Formulario\obj\Debug\Formulario.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ej6DI\Formulario\obj\Debug\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ej6DI\Formulario\obj\Debug\Formulario.exe
+C:\Users\User\source\repos\Ej6DI\Formulario\obj\Debug\Formulario.pdb
+C:\Users\User\source\repos\Ej6DI\Formulario\bin\Debug\Ej6DI.dll
+C:\Users\User\source\repos\Ej6DI\Formulario\bin\Debug\Ej6DI.pdb
+C:\Users\User\source\repos\Ej6DI\Formulario\obj\Debug\Formulario.exe.config
+C:\Users\User\source\repos\Ej6DI\Formulario\obj\Debug\Formulario.Form1.resources
+C:\Users\User\source\repos\Ej6DI\Formulario\obj\Debug\Formulario.csproj.Up2Date

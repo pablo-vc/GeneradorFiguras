@@ -1,0 +1,9 @@
+C:\Users\User\source\repos\Ej6DI\Ej6DI\bin\Debug\Ej6DI.dll
+C:\Users\User\source\repos\Ej6DI\Ej6DI\bin\Debug\Ej6DI.pdb
+C:\Users\User\source\repos\Ej6DI\Ej6DI\obj\Debug\Ej6DI.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ej6DI\Ej6DI\obj\Debug\Ej6DI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ej6DI\Ej6DI\obj\Debug\Ej6DI.dll
+C:\Users\User\source\repos\Ej6DI\Ej6DI\obj\Debug\Ej6DI.pdb
+C:\Users\User\source\repos\Ej6DI\Ej6DI\obj\Debug\Ej6DI.GeneradorCuadros.resources
+C:\Users\User\source\repos\Ej6DI\Ej6DI\obj\Debug\Ej6DI.Properties.Resources.resources
+C:\Users\User\source\repos\Ej6DI\Ej6DI\obj\Debug\Ej6DI.csproj.GenerateResource.cache
